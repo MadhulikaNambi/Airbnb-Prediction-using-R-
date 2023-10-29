@@ -8,6 +8,7 @@ The predictive model caters to two primary target audiences: homeowners (hosts) 
 
 **Business Value and Actions:**
 Homeowners (Hosts):
+
 a. Price Optimization: By leveraging our predictive model, hosts can better understand the factors that contribute to a perfect rating. They can adjust their pricing strategies, accordingly, maximizing their revenue while still meeting guest expectations. 
 b. Listing Improvement: Insights from the model can help hosts identify areas for improvement within their listings. This includes enhancing amenities, addressing potential pain points, and optimizing the overall
 guest experience to increase the likelihood of receiving perfect ratings. 
@@ -15,6 +16,7 @@ c. Competitive Advantage: Hosts can differentiate themselves from competitors by
 and positive reviews.
 
 Renters:
+
 a. Enhanced Decision-Making: Our model empowers renters to make more informed choices by considering the likelihood of a listing receiving a perfect rating. Renters can prioritize listings that have a
 higher probability of meeting their expectations and delivering a memorable experience. 
 b. Trust and Reliability: By utilizing the predictive model, renters can gain additional confidence in their rental decisions. The ability to filter listings based on their potential for a perfect rating score ensures a more reliable and satisfactory experience for renters.
